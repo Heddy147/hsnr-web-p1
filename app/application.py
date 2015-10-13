@@ -25,6 +25,10 @@ class Application_cl(object):
 	module.exposed = True
 	# --------------------------------------
 
+	def newFunction(self):
+		daten = "lol"
+	newFunction.exposed = True
+
 	def	default(self, *arglist, **kwargs):
 		# --------------------------------------
 		msg_s =	"unbekannte Anforderung: " + \
