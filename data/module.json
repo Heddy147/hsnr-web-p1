@@ -1,0 +1,17 @@
+{
+	"WEB": {
+		"bezeichnung": "Web-Engineering",
+		"studiengang": "Bachelor Informatik",
+		"semester": 3
+	},
+	"IAS": {
+		"bezeichnung": "Interaktive Systeme",
+		"studiengang": "Bachelor Informatik",
+		"semester": 4
+	},
+	"SWE": {
+		"bezeichnung": "Software Engineering",
+		"studiengang": "Bachelor Informatik",
+		"semester": 5
+	}
+}
